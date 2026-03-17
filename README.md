@@ -42,11 +42,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-### Gradio
-```bash
-python app/gradio_app.py
-```
-
 ---
 
 ## 🧠 Workflow
