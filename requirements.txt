@@ -1,0 +1,8 @@
+langchain
+langgraph
+faiss-cpu
+sentence-transformers
+streamlit
+pypdf
+duckduckgo-search
+tiktoken
